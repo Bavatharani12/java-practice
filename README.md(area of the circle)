@@ -1,0 +1,10 @@
+class Area {
+    public static void main(String[] args) {
+        double pi,a;
+        float r;
+        pi=3.14;
+        r=10;
+        a=pi*r*r;
+        System.out.println(a);
+    }
+}
